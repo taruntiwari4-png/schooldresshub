@@ -1,0 +1,6 @@
+{
+  "name": "SchoolDressHub",
+  "description": "E-commerce marketplace connecting wholesalers, retailers, and customers for school uniforms, dresses, shoes, and accessories with configurable platform margin and multi-seller price comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
